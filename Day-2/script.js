@@ -83,3 +83,5 @@ console.log(squaredNumbers);
 //filtering the array
 const biggerThank5 = numbers.filter(num => num>5);
 console.log(biggerThank5);
+
+
