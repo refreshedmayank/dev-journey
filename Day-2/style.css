@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(8, 8, 8);
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+
+}
+header{
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+
+}
+Form{
+  margin-top: 100px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  width: 400px;
+  height: 200px;
+
+}
+.About-Us {
+  color: rgb(255, 255, 255);
+  position: relative;
+  left:620px;}
+
+.Newsletter{
+  color: white;
+  position: relative;
+  bottom:20px;
+  left: 470px;
+}
+.aboutushtml{
+  background-color: black;
+  color: white;
+}
