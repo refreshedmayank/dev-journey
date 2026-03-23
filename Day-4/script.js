@@ -1,4 +1,4 @@
-// day -4
+// day -4 js
 // objects
 const Person1 = {
   First_name: "Rohit",
