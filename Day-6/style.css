@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body{
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+
+}
+.container{
+  background-color: black;
+  color: white;
+  width: 750px;
+  height: 500px;
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 25px;
+  overflow-y: auto;
+
+
+}
+.container::-webkit-scrollbar{
+  display: none;
+}
+.task{
+  margin-top: 22px;
+  width: 89px;
+  height: 25px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(249, 249, 249);
+
+}
+.Add-task, .Delete-task{
+  margin-top: 22px;
+  width: 89px;
+  height: 25px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(249, 249, 249);
+}
+.tasklist{
+  margin-top: 20px;
+  list-style-position: inside;
+
+
+}
